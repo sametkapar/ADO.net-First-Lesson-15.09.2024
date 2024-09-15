@@ -1,0 +1,7 @@
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\bin\Debug\MerhabaAdoNet.exe.config
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\bin\Debug\MerhabaAdoNet.exe
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\bin\Debug\MerhabaAdoNet.pdb
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\obj\Debug\MerhabaAdoNet.csproj.AssemblyReference.cache
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\obj\Debug\MerhabaAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\obj\Debug\MerhabaAdoNet.exe
+C:\Users\KAPAR\source\repos\MerhabaAdoNet\MerhabaAdoNet\obj\Debug\MerhabaAdoNet.pdb
